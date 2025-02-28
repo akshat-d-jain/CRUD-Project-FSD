@@ -59,9 +59,9 @@ To run the project locally:
 ### **Preview**
 Below is a preview of the Monument Valley Gallery:
 
-!![Screenshot 2025-02-28 174400](https://github.com/user-attachments/assets/258ad0cc-16ce-4e70-a137-b93e7c7127c1)
+![Screenshot 2025-02-28 174400](https://github.com/user-attachments/assets/258ad0cc-16ce-4e70-a137-b93e7c7127c1)
 
-*(Replace `path/to/your/image.png` with the actual image path in your repo)*
+
 
 ---
 
